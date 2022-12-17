@@ -1,13 +1,9 @@
-body {
+html {
     overflow: hidden;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
     color: #cccccc;
     background: #111111;
-}
-
-a {
-    color: inherit;
 }
 
 #signature {
@@ -17,6 +13,7 @@ a {
     transform: translate(50%,-50%);
 }
 
-#links {
+.fa {
     font-size: 25px;
+    color: #cccccc;
 }
