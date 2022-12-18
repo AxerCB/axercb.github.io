@@ -6,7 +6,7 @@ html {
     background: #111111;
 }
 
-#signature {
+#socials {
     position: absolute;
     top: 50%;
     right: 50%;
@@ -14,6 +14,7 @@ html {
 }
 
 .fa {
-    font-size: 25px;
+    padding: 5px;
+    font-size: 30px;
     color: #cccccc;
 }
