@@ -11,7 +11,7 @@ The site uses assets from the following projects:
 
 * [fireflies](https://github.com/Eluvade/fireflies): The particle system running in the page background.
 * [osu-stats-generator](https://github.com/solstice23/osu-stats-signature): Generates an osu! signature for a user.
-* [fontawesome](https://fontawesome.com/v4/): Provides the icons used by the site.
+* [simple-icons](https://simpleicons.org/): CDN that serves icons.
 
 ## License
 The source code for axercb.github.io is licensed under the [MIT](LICENSE) license. Feel free to fork the repository or modify the code as you see fit.
